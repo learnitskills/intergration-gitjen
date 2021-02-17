@@ -1,4 +1,4 @@
 #!/bin/bash
 echo `uname -o`
-echo "successful"
+echo "RAN SUCCESSFULLY"
 
